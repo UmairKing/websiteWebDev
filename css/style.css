@@ -18,7 +18,7 @@ body {
 
 .button_1{
 	height: 30px;
-	background: greenyellow;
+	background: purple;
 	border: 0;
 	padding-left: 20px;
 	padding-right: 20px;
@@ -30,7 +30,7 @@ header {
 	color: #ffffff;
 	padding-top: 30px;
 	min-height: 70px;
-	border-bottom: yellowgreen 3px solid;
+	border-bottom: purple 3px solid;
 }
 
 header a{
@@ -64,7 +64,7 @@ header nav{
 }
 
 header .highlight, header .current a{
-	color: yellowgreen;
+	color: purple;
 	font-weight: bold;
 }
 
@@ -151,7 +151,7 @@ ul#services li{
 }
 
 footer {
-	background-color: yellowgreen;
+	background-color: purple;
 	margin-top: 20px;
 	color: #ffffff;
 	padding: 5px;
